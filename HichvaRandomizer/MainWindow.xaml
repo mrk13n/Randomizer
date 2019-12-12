@@ -16,8 +16,9 @@
             <ColumnDefinition Width="1*" />
             <ColumnDefinition Width="3*" />
         </Grid.ColumnDefinitions>
-        <TextBox Grid.Column="0" Width="25px" Height="25px" Text="0"></TextBox>
-        <TextBox Grid.Column="1" Width="25px" Height="25px" Text="10"></TextBox>
-        <Button Grid.Column="2" Width="100px" Height="50px" Content="Generate"/>
+        <TextBox Grid.Column="0" Width="25px" Height="25px" Text="{Binding Minimum}"></TextBox>
+        <TextBox Grid.Column="1" Width="25px" Height="25px" Text="{Binding Maximum}"></TextBox>
+        <Button Grid.Column="2" Width="100px" Height="50px" Content="Generate" Command="{Binding GenerateCommand}"/>
+        <ListBox Grid.Row="1" Grid.ColumnSpan="3" ScrollViewer.VerticalScrollBarVisibility="Auto" ItemsSource="{Binding ResultList}"/>
     </Grid>
 </Window>

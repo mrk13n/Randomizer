@@ -23,7 +23,7 @@ namespace HichvaRandomizer
         public MainWindow()
         {
             InitializeComponent();
-            //DataContext = new MainModel();
+            DataContext = new MainViewModel();
         }
     }
 }
