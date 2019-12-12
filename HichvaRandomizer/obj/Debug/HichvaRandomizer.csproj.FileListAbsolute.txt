@@ -1,0 +1,14 @@
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\bin\Debug\HichvaRandomizer.exe.config
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\bin\Debug\HichvaRandomizer.exe
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\bin\Debug\HichvaRandomizer.pdb
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.csprojAssemblyReference.cache
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\MainWindow.g.cs
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\App.g.cs
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer_MarkupCompile.cache
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer_MarkupCompile.lref
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\MainWindow.baml
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.g.resources
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.Properties.Resources.resources
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.csproj.GenerateResource.cache
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.exe
+C:\Users\mrk13\source\repos\HichvaRandomizer\HichvaRandomizer\obj\Debug\HichvaRandomizer.pdb
